@@ -1,37 +1,47 @@
+<a href="https://github.com/zechub/zechub/edit/main/site/tutorials/Wallet_Tutorials.md" target="_blank">
+  <img src="https://img.shields.io/badge/Edit-blue" alt="Edit Page"/>
+</a>
+
 # Zcash Wallet Tutorials
 
 Below are a list of wallet tutorials that can help you get started with ZEC.
 
-[![Edit Page](https://img.shields.io/badge/Edit-blue)](https://github.com/zechub/zechub/edit/main/site/tutorials/Wallet_Tutorials.md)
 
----
+- Zashi Wallet 
 
-### Zashi Wallet
-[Watch Video](https://www.youtube.com/watch?v=G92zBIr-Wms)
+https://www.youtube.com/watch?v=G92zBIr-Wms
 
----
+____
 
-### Comparing Zcash Wallet
-[Watch Video](https://www.youtube.com/watch?v=ao4ORC_VNcY)
 
----
+- Comparing Zcash Wallet
 
-### Ywallet Cold Storage
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJaAccp-77k" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=ao4ORC_VNcY
 
----
+____ 
 
-### Ywallet Batch Backup
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0skM-RziBv8" frameborder="0" allowfullscreen></iframe>
+- Ywallet Cold Storage
 
----
+https://www.youtube.com/embed/v=hJaAccp-77k
 
-### Ywallet Multipay Feature
-[Watch Video](https://www.youtube.com/watch?v=ovlNktpxURI)
+____
 
----
+- Ywallet Batch Backup
 
-### Unstoppable Wallet Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9tpkgVRsq4" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/v=0skM-RziBv8
 
----
+
+____
+
+- Ywallet Multipay Feature
+
+https://www.youtube.com/watch?v=ovlNktpxURI
+
+
+____
+
+- Unstoppable Wallet Tutorial 
+
+https://www.youtube.com/embed/v=B9tpkgVRsq4
+
+____
