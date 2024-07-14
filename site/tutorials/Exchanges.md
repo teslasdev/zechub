@@ -4,30 +4,24 @@
 
 # Zcash Exchanges
 
-- Buy ZEC in Gemini Exchange 
- 
+- Buy ZEC in Gemini Exchange
+
 <a href=""><iframe width="560" height="315" src="https://www.youtube.com/embed/hJaAccp-77k" frameborder="0" allowfullscreen></iframe></a>
 
 ___
 
-
 - Using Atomix DEX
 
-https://www.youtube.com/watch?v=TwKQE8X7McA
-
+<a href=""><iframe width="560" height="315" src="https://www.youtube.com/embed/TwKQE8X7McA" frameborder="0" allowfullscreen></iframe></a>
 
 ___
 
 - Buying Zcash on Coinbase to Shield
 
-https://www.youtube.com/watch?v=3xyKKer1Qvk
-
+<a href=""><iframe width="560" height="315" src="https://www.youtube.com/embed/3xyKKer1Qvk" frameborder="0" allowfullscreen></iframe></a>
 
 ___
 
-- Sideshift Exchange Shielded Zcash 
+- Sideshift Exchange Shielded Zcash
 
-https://www.youtube.com/watch?v=joQtS8QUpdg
-
-
-____
+<a href=""><iframe width="560" height="315" src="https://www.youtube.com/embed/joQtS8QUpdg" frameborder="0" allowfullscreen></iframe></a>
