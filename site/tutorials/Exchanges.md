@@ -6,7 +6,7 @@
 
 - Buy ZEC in Gemini Exchange 
  
-https://www.youtube.com/embed/REUbkLzK7J4?si=_IwaZ-h7pNzyFCik
+<a href=""><iframe width="560" height="315" src="https://www.youtube.com/embed/hJaAccp-77k" frameborder="0" allowfullscreen></iframe></a>
 
 ___
 
