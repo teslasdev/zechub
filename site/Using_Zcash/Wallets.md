@@ -47,7 +47,7 @@
   <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Sapling</button></a> | 
   <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Orchard</button></a>
 - Features: BlazeSync | Shielded Memo | Financial Insights | Unified Address | Payment Request
-- Sync-speed: <img src="https://github.com/user-attachments/assets/c6c6da74-d4ff-4cdf-ba72-55a82bb4165d" width="42" height="32">
+![sync-speed](https://i.ibb.co/bdJ49Ld/zingocard.png "Zingo!")
 
 ---
 
