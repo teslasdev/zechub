@@ -3,7 +3,7 @@
 ![logo](https://i.ibb.co/HgsHnpN/zashiwallet.png "Zashi")
 - Devices: Mobile
 - Pools: 
-  <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Transparent</button></a> | 
+  <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Transpa</button></a> | 
   <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Sapling</button></a> | 
   <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Orchard</button></a>
 - Features: Spend before Sync | Unified Address | Shielded Memo | Payment Request | TEX Address | Tor Currency Rates | Coinbase Onramp
@@ -20,7 +20,7 @@
   <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Sapling</button></a> | 
   <a href="https://zechub.wiki/using-zcash/shielded-pools"><button>Orchard</button></a>
 - Features: WarpSync | Shielded Memo | Cold Storage | Voting | Pool Transfer | Payment Request | TEX Address | Diversified Address
-- Syncspeed: https://github.com/user-attachments/assets/405ffdc4-0ca7-4854-a048-d9d5fffa0eab
+![syncspeed](https://github.com/user-attachments/assets/405ffdc4-0ca7-4854-a048-d9d5fffa0eab "Ywallet")
 
 ---
 
